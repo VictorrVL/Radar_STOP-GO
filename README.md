@@ -8,3 +8,7 @@ Components used:
 -Servo SG90
 -RGB Led (which has its Red and Green ports connected with a 330 Resistor)
 
+
+
+https://github.com/user-attachments/assets/e2ad9774-2258-4347-9100-b9f265a973f9
+
